@@ -1,0 +1,126 @@
+#headersections{
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid black; */
+    width: 100%;
+    background-color: white;
+    position: sticky;
+    top: -100px;
+    padding: 5px;
+    transition-duration: 0.25s;
+    transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    box-sizing: border-box;
+    z-index: 999;
+    }
+.headerdata{
+    display: flex;
+    flex-direction: row;
+    width: 99%;
+    padding: 10px 10px;
+    background-color: white;
+}
+.logoauthor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    flex-direction: column;
+    margin-left: 15%;
+}
+.logoauthor img{
+    width: 100px;
+    height: 100px;
+}
+#headerdesktopmenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-left: 20px;
+    flex-direction: row;
+}
+
+#headerdesktopmenu nav .abc{
+    list-style-type: none;
+    display: inline;
+}
+#headerdesktopmenu nav .abc a{
+    padding: 10px 10px;
+    margin: 0px 4px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+#headerdesktopmenu nav .abc a:hover{
+    color: black;
+    border-bottom: 2px solid #41C38F;
+}
+#headerdesktopmenu nav .abc a.active{
+    color: #41C38F;
+    border-bottom: 2px solid #41C38F;
+}
+.mobilemenuheader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    flex-direction: row;
+    margin: 0px 10px;
+    cursor: pointer;   
+    display: none;
+}
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #333;
+    margin: 3px 0;
+    transition: 0.9s;
+  }
+  
+  .change .bar1 {
+    transform: translate(0, 11px) rotate(-45deg);
+  }
+  
+  .change .bar2 {opacity: 0;}
+  
+  .change .bar3 {
+    transform: translate(0, -11px) rotate(45deg);
+  }
+.mobilemenudropdownhide{
+    display: none !important;
+}
+.mobilemenudropdown{
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    flex-direction: column;
+    padding: 20px 5px;
+    width: 99%;
+    background-color: black;
+    display: none;
+}
+.mobilemenudropdown nav ul span li{
+    list-style-type: none;
+    margin: 50px 0px;
+}
+.mobilemenudropdown nav ul span li a{
+    padding: 10px 10px;
+    margin: 0px 4px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.mobilemenudropdown nav ul span li a:hover{
+    border-bottom: 3px solid #41C38F;
+    transition-timing-function:ease-out;
+    transition-duration: 0.3s;
+    background-color: #41C38F;
+}
+.mobilemenudropdown nav ul span li a:active , a:visited{
+    border-bottom: 3px solid #41C38F;
+    color: #41C38F;
+    transition-timing-function:ease-out;
+    transition-duration: 0.3s;
+}

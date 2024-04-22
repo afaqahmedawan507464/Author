@@ -1,0 +1,1366 @@
+@media screen and (min-width:951px) and (max-width:1150px){
+  .main{
+    max-width: 951px;
+    margin: auto;
+  }
+  .headerdata {
+      width: 97%;
+      justify-content: flex-start;
+    }
+    .logoauthor {
+       flex-direction: column;
+       margin-left: 1%;
+    }
+    .headerdesktopmenu {
+      width: 80%;
+    }
+ /* ===================================== */
+    #colorpagetitle {
+      width: 97%;
+    }
+    .titlepageimages {
+        width: 45%;
+        padding: 10px 10px;
+    }
+    .titlepageimages img {
+        height: 100%;
+    }
+    .titlepagedata {
+        width: 45%;
+        padding: 30px 10px;
+
+      }
+    .companylogos {
+      width: 97%;
+    }
+    .clientlogos {
+        width: 17%;
+    }
+    .clientlogos img {
+        width: 140px;
+    }
+    #aboutsection {
+        width: 97%;
+    }
+    .aboutbookandimages {
+        width: 90%;
+    }
+    .imageabout {
+        width: 39%;
+    }
+    .imageabout img{
+        height: 450px;
+        width: 320px;
+    }
+    .aboutdatasinformation {
+        width: 49%;
+        margin-left: 1px;
+        margin-top: 5px;
+    }
+    .aboutdatasinformation h1 {
+        font-size: 2rem;
+        padding-bottom: 5px;
+        margin: 15px 0px;
+    }
+    .aboutdatasinformation p {
+        font-size: 0.9rem;
+    }
+    .aboutdatasinformation h3 {
+        font-size: 1.1rem;
+        margin-top: 1px;
+    }
+    .booksellaboutinformations {
+        width: 95%;
+    }
+    .details p {
+      font-size: 1rem;
+    }
+    #chaptersection {
+        width: 97%;
+    }
+    #chaptersection h1 {
+        width: 95%;
+    }
+    .bookchapter {
+        width: 98%;
+    }
+    
+    .bookmenupages {
+        width: 30%;
+    }
+    .services {
+        width: 97%;
+    }
+    .servicesbox {
+        width: 97%;
+    }
+    .service h2 {
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
+    #reviewsection {
+        width: 97%;
+        padding: 20px 5px;
+        margin: 10px 0px;
+    }
+    .image {
+        width: 96.5%;
+        margin-top: -20%;
+    }
+    .imageshade {
+      width: 100%;
+      height: 100%;
+    }
+    .container, .container-md, .container-sm {
+      max-width: 951px !important;
+    }
+    .reviewimageblock {
+      margin: 10px 0px;
+    }
+    #reviewsection h1{
+      font-size: 2rem;
+    }
+  #reviewsection p{
+      color: white;
+      font-weight: bolder;
+      font-size: 1rem;
+      text-align: center;
+      width: 100%;
+      margin-top: -5%;
+  }
+  .owl-carousel{
+    width: 94% !important;
+   }
+    /* .slidercommentdatassections {
+        width: 95.5%;
+        margin-top: -10%;
+    } */
+    .commentsliderarea {
+        width: 95%;
+    }
+    #booksection {
+        width: 97%;
+    }
+    .bookspictures {
+        width: 20%;
+    }
+    .bookspictures img {
+        height: 300px;
+        width: 200px;
+    }
+    .shadow {
+        height: 300px;
+        width: 200px;
+    }
+    #authorsection {
+        width: 97%;
+    }
+    .btnauthors {
+      width: 50%;
+    }
+    #contactus {
+        width: 97%;
+    }
+    .blocksdata p {
+        font-size: 0.8rem;
+    }
+    .logoscon {
+        width: 40%;
+        padding: 28px 10px;
+    }
+    .usermessagesubmitbutton {
+      width: 40%;
+    }
+    .mapanduserinformation {
+        width: 97%;
+    }
+    /* ================================ */
+    .aboutbox {
+        width: 20%;
+    }
+    .about p {
+        font-size: 0.8rem;
+    }
+    .Haveaquestionsbox h1 {
+        margin-top: 45px;
+    }
+    .about h1 {
+      margin-top: 35px;
+    }
+    .iconsbox {
+      padding: 12px 20px;
+    }
+}
+/* ==================================== */
+@media screen and (min-width:768px) and (max-width:950px){
+    .headerdata {
+        width: 97%;
+        justify-content: center;
+      }
+      .logoauthor {
+         flex-direction: column;
+         margin-left: 0.3%;
+         
+      }
+      #headerdesktopmenu {
+        width: 80%;
+      }
+      #headerdesktopmenu nav .abc a{
+        font-size: 12px;
+      }
+   /* ===================================== */
+      #colorpagetitle {
+        width: 95%;
+        justify-content: center;
+      }
+      .titlepageimages {
+          width: 40%;
+          padding: 10px 10px;
+      }
+      .titlepageimages img {
+          height: 100%;
+      }
+      .titlepagedata {
+          width: 40%;
+          padding: 30px 10px;
+        }
+      .companylogos {
+        width: 95%;
+      }
+      .clientlogos {
+          width: 15%;
+      }
+      .clientlogos img {
+          width: 110px;
+      }
+      #aboutsection {
+        width: 95%;
+    }
+    .aboutbookandimages {
+        width: 90%;
+    }
+    .imageabout {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .imageabout img{
+        height: 450px;
+        width: 450px;
+    }
+    .aboutdatasinformation {
+        width: 75%;
+        margin-left: 1px;
+        margin-top: 5px;
+    }
+    .aboutdatasinformation h1 {
+        font-size: 2rem;
+        padding-bottom: 5px;
+        margin: 15px 0px;
+    }
+    .aboutdatasinformation p {
+        font-size: 0.9rem;
+    }
+    .aboutdatasinformation h3 {
+        font-size: 1.1rem;
+        margin-top: 1px;
+    }
+      .booksellaboutinformations {
+          width: 95%;
+        }
+        .details {
+          width: 90%;
+        }
+  
+      #chaptersection {
+          width: 95%;
+      }
+      #chaptersection h1 {
+          width: 95%;
+          font-size: 2rem;
+      }
+      .bookchapter {
+          width: 98%;
+      }
+      
+      .bookmenupages {
+          width: 25%;
+      }
+      .bookmenupages nav li a{
+        font-size: 13px;
+        font-weight: bold;
+      }
+      .chapterdata p {
+        font-size: 14px;
+      }
+      .services {
+        width: 90%;
+      }
+      .servicesbox {
+        flex-direction: column;
+      }
+      .service {
+        width: 90%;
+        margin: 20px 0px;
+      }
+      #reviewsection {
+        width: 97%;
+        padding: 20px 5px;
+        margin: 10px 0px;
+        background-color: #41C38F;
+        position: relative;
+        height: 60vh;
+        background-repeat: no-repeat;
+    }
+    #reviewsection::before{
+      position: absolute;
+      content: "";
+      background-size:cover;
+      background-image: url('../bg_4.webp');
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 100%;
+      width: 100%;
+       opacity: 0.3;
+      /*z-index: -1;*/
+    }
+  
+      /* .container, .container-md, .container-sm {
+         max-width: 951px !important;
+       } */
+       #reviewsection h1{
+        font-size: 2rem;
+    }
+    #reviewsection p{
+        margin-top: -12%;
+    }
+    .owl-carousel{
+        width: 90% !important;
+    }
+      .commentsliderarea {
+          width: 100%;
+      }
+      .commentdetailed{
+        margin: 20px 40px;
+      }
+      .bullets {
+        height: 10px;
+        width: 30px;
+      }
+      #booksection {
+          width: 95%;
+          justify-content: center;
+      }
+      .bookspictures {
+          width: 18%;
+      }
+      .bookspictures img {
+          height: 200px;
+          width: 130px;
+      }
+      .shadow {
+          height: 200px;
+          width: 130px;
+      }
+      .shadow h3 {
+        font-size: 1.1rem;
+        margin-top: 80px;
+      }
+      #authorsection {
+          width: 95%;
+          flex-direction: column;
+      }
+      .authorimage {
+        width: 70%;
+        margin: 20px 0px;
+      }
+      .authorimage img {
+        width: 98%;
+        height: 750px;
+      }
+      .authordata {
+        width: 71%;
+      }
+      .btnauthors {
+        width: 40%;
+      }
+      #contactus {
+          width: 95%;
+      }
+      .blockscontactdata {
+        flex-direction: column;
+      }
+      .blocksdata {
+        width: 90%;
+        margin: 10px 0px;
+      }
+      .logoscon {
+        background-color: #41C38F;
+        width: 15%;
+        padding: 40px 10px;
+      }
+      .mapanduserinformation {
+          width: 87%;
+          flex-direction: column-reverse;
+      }
+      .map {
+        width: 90%;
+        margin: 20px 0px;
+      }
+      .userinformation {
+        width: 90%;
+      }
+      /* ================================ */
+      .footerupperside {
+        flex-direction: column;
+      }
+      .aboutbox {
+        width: 90%;
+      }
+      .linkbox {
+        width: 50%;
+      }
+      .servicebox {
+        width: 50%;
+      }
+      .Haveaquestionsbox {
+        width: 50%;
+      }
+  }
+  /* ==================================== */
+@media screen and (min-width:551px) and (max-width:767px){
+      #headersections {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+        align-items: center;
+      }
+      .headerdata {
+        width: 20%;
+        display: flex;
+        justify-content: flex-end;
+        margin: 0px 20px;
+      }
+      .mobilemenuheader {
+        display: flex;
+        margin: 0px 10px;
+        width: 30%;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 5px;
+        flex-direction: column;
+      }
+      .logoauthor {
+         flex-direction: column;
+         margin-left: 0.5%;
+      }
+      #headerdesktopmenu {
+        display: none;
+      }
+      .mobilemenudropdown {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 96%;
+        background-color: black;
+        margin: auto;
+      }
+   /* ===================================== */
+      #colorpagetitle {
+        width: 95%;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        margin-top: -7%;
+      }
+      .titlepageimages {
+          width: 100%;
+          padding: 10px 10px;
+          margin-top: -70%;
+          z-index: -1;
+          opacity: 0.3;
+      }
+      .titlepageimages img {
+          height: 100%;
+      }
+      .titlepagedata {
+          width: 100%;
+          padding: 30px 10px;
+        }
+      .para1 {
+            width: 100%;
+            text-align: center;
+            text-transform: uppercase;
+        }
+        .titlepagedata h1 {
+            text-align: center;
+            width: 100%;
+            font-size: 2rem;
+        }
+        .para2 {
+            text-align: center;
+            color: black;
+        }
+        .btnsproperty {
+            width: 50%;
+            align-self: center;
+        }
+        .companylogos {
+            padding: 10px 5px;
+            flex-direction: column;
+            width: 90%;
+        }
+        .clientlogos {
+            width: 95%;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+        }
+      #aboutsection {
+          width: 95%;
+      }
+      .aboutbookandimages {
+          width: 90%;
+      }
+      .imageabout {
+          width: 100%;
+          margin-top: 20px;
+      }
+      .imageabout img{
+          height: 450px;
+          width: 450px;
+      }
+      .aboutdatasinformation {
+          width: 90%;
+          margin-left: 1px;
+          margin-top: 5px;
+      }
+      .aboutdatasinformation h1 {
+          font-size: 2rem;
+          padding-bottom: 5px;
+          margin: 15px 0px;
+      }
+      .aboutdatasinformation p {
+          font-size: 0.9rem;
+      }
+      .aboutdatasinformation h3 {
+          font-size: 1.1rem;
+          margin-top: 1px;
+      }
+      .booksellaboutinformations {
+        flex-direction: column;
+      }
+      .details {
+        width: 90%;
+      }
+      .bookchapter {
+        width: 90%;
+        flex-direction: column;
+      }
+      .bookmenupages {
+        width: 93%;
+        position: relative;
+        margin-top: -10%;
+      }
+      .bookchapterinformation {
+        width: 95%;
+        margin-right: 1%;
+        margin-top: -20%;
+      }
+      .chapterdata {
+        width: 95%;
+        margin: 10px 10px;
+        padding: 10px 5px;
+      }
+      .chapterdata p {
+        font-size: 14px;
+      }
+      .chapterdata h1 {
+        font-size: 1.5rem;
+      }
+      .services {
+        width: 90%;
+      }
+      .servicesbox {
+        flex-direction: column;
+      }
+      .service {
+        width: 90%;
+        margin: 20px 0px;
+      }
+      #reviewsection {
+        width: 97%;
+        padding: 20px 5px;
+        margin: 10px 0px;
+        background-color: #41C38F;
+        position: relative;
+        height: 40vh;
+        background-repeat: no-repeat;
+      }
+      #reviewsection::before{
+        position: absolute;
+        content: "";
+        background-size:cover;
+        background-image: url('../bg_4.webp');
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 100%;
+        width: 100%;
+         opacity: 0.3;
+        /*z-index: -1;*/
+      }
+      .reviewimageblock h1{
+        text-align: center;
+      }
+      .commentsliderarea {
+          width: 90%;
+      }
+      .owl-carousel{
+        margin-top: -28% !important;
+        width: 90%;
+      }
+      #reviewsection h1{
+        font-size: 2rem;
+      }
+      #reviewsection p{
+        margin-top: -11%;
+      }
+      .quote{
+        margin: -7% 90% 0% 0%;
+        width: 10%;
+      }
+      .sliderbullets {
+        width: 15%;
+      }
+      .bullets {
+        height: 10px;
+        width: 30px;
+      }
+      .booksitems {
+        flex-direction: column;
+        width: 90%;
+      }
+      .bookspictures {
+        width: 100%;
+        margin: 15px 0px;
+        align-self: center;
+
+      }
+      .bookspictures img {
+        height: 320px;
+        width: 450px;
+        position: relative;
+      }
+      .shadow {
+        height: 320px;
+        background-color: black;
+        width: 450px;
+      }
+      #authorsection {
+          width: 95%;
+          flex-direction: column;
+      }
+      .authorimage {
+        width: 95%;
+        margin: 20px 0px;
+      }
+      .authorimage img {
+        width: 98%;
+        height: 750px;
+      }
+      .authordata {
+        width: 91%;
+      }
+      .btnauthors {
+        width: 40%;
+      }
+      #contactus {
+          width: 95%;
+      }
+      .blockscontactdata {
+        flex-direction: column;
+      }
+      .blocksdata {
+        width: 90%;
+        margin: 10px 0px;
+      }
+      .logoscon {
+        background-color: #41C38F;
+        width: 20%;
+        padding: 40px 5px;
+      }
+      .mapanduserinformation {
+        flex-direction: column-reverse;
+      }
+      .map {
+        width: 90%;
+        margin: 20px 0px;
+      }
+      .userinformation {
+        width: 90%;
+      }
+      .usermessagesubmitbutton {
+        width: 40%;
+      }
+      /* ================================ */
+      .footerupperside {
+        flex-direction: column;
+      }
+      .aboutbox {
+        width: 90%;
+      }
+      .linkbox {
+        width: 50%;
+      }
+      .servicebox {
+        width: 50%;
+      }
+      .Haveaquestionsbox {
+        width: 50%;
+      }
+}
+  /* ==================================== */
+@media screen and (min-width:391px) and (max-width:550px){
+    #headersections {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: row;
+      align-items: center;
+    }
+    .headerdata {
+      width: 20%;
+      display: flex;
+      justify-content: flex-end;
+      margin: 0px 20px;
+    }
+    .mobilemenuheader {
+      display: flex;
+      margin: 0px 10px;
+      width: 30%;
+      justify-content: center;
+      align-items: center;
+      padding: 20px 5px;
+      flex-direction: column;
+    }
+    .logoauthor {
+       flex-direction: column;
+       margin-left: 0.5%;
+    }
+    #headerdesktopmenu {
+      display: none;
+    }
+    .mobilemenudropdown {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 96%;
+      background-color: black;
+      margin: auto;
+    }
+ /* ===================================== */
+    #colorpagetitle {
+      width: 95%;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      margin-top: -5%;
+    }
+    .titlepageimages {
+        width: 100%;
+        padding: 10px 10px;
+        margin-top: -100%;
+        z-index: -1;
+        opacity: 0.3;
+    }
+    .titlepageimages img {
+        height: 100%;
+    }
+    .titlepagedata {
+        width: 100%;
+        padding: 30px 10px;
+      }
+    .para1 {
+          width: 100%;
+          text-align: center;
+          text-transform: uppercase;
+      }
+      .titlepagedata h1 {
+          text-align: center;
+          width: 100%;
+          font-size: 3rem;
+      }
+      .para2 {
+          text-align: center;
+          color: black;
+      }
+      .btnsproperty {
+          width: 50%;
+          align-self: center;
+      }
+      .companylogos {
+          padding: 10px 5px;
+          flex-direction: column;
+          width: 90%;
+      }
+      .clientlogos {
+          width: 95%;
+          justify-content: center;
+          align-items: center;
+          display: flex;
+      }
+    #aboutsection {
+        width: 92%;
+    }
+    .aboutbookandimages {
+        width: 90%;
+    }
+    .imageabout {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .imageabout img{
+        height: 450px;
+        width: 300px;
+    }
+    .aboutdatasinformation {
+        width: 100%;
+        margin-left: 1px;
+        margin-top: 5px;
+    }
+    .aboutdatasinformation h1 {
+        font-size: 2rem;
+        padding-bottom: 5px;
+        margin: 15px 0px;
+    }
+    .aboutdatasinformation p {
+        font-size: 0.9rem;
+    }
+    .aboutdatasinformation h3 {
+        font-size: 1.1rem;
+        margin-top: 1px;
+    }
+    .booksellaboutinformations {
+      flex-direction: column;
+    }
+    .details {
+      width: 90%;
+    }
+    .bookchapter {
+      width: 90%;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .bookmenupages {
+      width: 93%;
+      position: relative;
+      margin-top: -10%;
+    }
+    .bookchapterinformation {
+      width: 95%;
+      margin-right: 1%;
+      margin-top: -20%;
+    }
+    
+    .chapterdata {
+      width: 98%;
+      margin: 20px 10px;
+      padding: 10px 10px;
+    }
+    .chapterdata p {
+      font-size: 12px;
+    }
+    
+    #chaptersection h1 {
+      font-size: 1.5rem;
+    }
+    .services {
+      width: 90%;
+    }
+    .servicesbox {
+      flex-direction: column;
+      justify-content: center;
+      width: 80%;
+    }
+    .service {
+      width: 100%;
+      margin: 20px 0px;
+
+    }
+    .service p {
+      font-size: 12px;
+    }
+    #reviewsection {
+      width: 97%;
+      padding: 20px 5px;
+      margin: 10px 0px;
+      background-color: #41C38F;
+      position: relative;
+      height: 26vh;
+      background-repeat: no-repeat;
+    }
+    #reviewsection::before{
+      position: absolute;
+      content: "";
+      background-size:cover;
+      background-image: url('../bg_4.webp');
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 100%;
+      width: 100%;
+       opacity: 0.3;
+      /*z-index: -1;*/
+    }
+    #reviewsection h1{
+      font-size: 1.5rem;
+    }
+    .owl-carousel{
+      margin-top: -1% !important;
+      width: 80%;
+
+    }
+    .slidercommentdatassections {
+        width: 92%;
+        margin-top: -10%;
+        align-self: center;
+    }
+    .commentsliderarea {
+        width: 100%;
+    }
+    .commentdetailed{
+      margin: 20px 40px;
+      width: 100%;
+    }
+    .sliderbullets {
+      width: 25%;
+    }
+    .bullets {
+      height: 10px;
+      width: 30px;
+    }
+    .booksitems {
+      flex-direction: column;
+      width: 90%;
+    }
+    .bookspictures {
+      width: 91%;
+      margin: 15px 0px;
+    }
+    .bookspictures img {
+      height: 320px;
+      width: 300px;
+      position: relative;
+    }
+    .shadow {
+      height: 320px;
+      background-color: black;
+      width: 300px;
+    }
+    #authorsection {
+        width: 95%;
+        flex-direction: column;
+    }
+    .authorimage {
+      width: 90%;
+      margin: 20px 0px;
+    }
+    .authorimage img {
+      width: 350px;
+      height: 450px;
+    }
+    .authordata {
+      width: 96%;
+    }
+    .authordata h1 {
+        font-size: 3rem;
+    }
+    .authorname strong {
+        font-size: 15px;
+    }
+    .authorname p {
+        font-size: 15px;
+    }
+    .btnauthors {
+        align-self: flex-start;
+        margin-left: 40px;
+        width: 50%;
+    }
+    #contactus {
+        width: 95%;
+    }
+    .blockscontactdata {
+      flex-direction: column;
+    }
+    .blocksdata {
+      width: 90%;
+      margin: 10px 0px;
+    }
+    .logoscon {
+      background-color: #41C38F;
+      width: 20%;
+      padding: 20px 5px;
+    }
+    .mapanduserinformation {
+      flex-direction: column-reverse;
+    }
+    .map {
+      width: 90%;
+      margin: 20px 0px;
+    }
+    .userinformation {
+      width: 90%;
+    }
+    .usermessagesubmitbutton {
+        align-self: flex-start;
+        margin-left: 40px;
+        width: 50%;
+    }
+    /* ================================ */
+    .footerupperside {
+      flex-direction: column;
+    }
+    .aboutbox {
+      width: 90%;
+    }
+    .linkbox {
+      width: 50%;
+    }
+    .servicebox {
+      width: 50%;
+    }
+    .Haveaquestionsbox {
+      width: 50%;
+    }
+}
+/* ==================================== */
+@media screen and (min-width:280px) and (max-width:390px){
+    #headersections {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: row;
+      align-items: center;
+      padding: 2px 0px;
+    }
+    .headerdata {
+      width: 20%;
+      display: flex;
+      justify-content: flex-end;
+      margin: 0px 20px;
+      padding: 2px 5px;
+    }
+    .mobilemenuheader {
+      display: flex;
+      margin: 0px 10px;
+      width: 30%;
+      justify-content: center;
+      align-items: center;
+      padding: 20px 5px;
+      flex-direction: column;
+    }
+    .logoauthor {
+       flex-direction: column;
+       margin-left: 0.5%;
+    }
+    #headerdesktopmenu {
+      display: none;
+    }
+    .mobilemenudropdown {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 93%;
+      align-self: center;
+      background-color: black;
+      margin: auto;
+      
+    }
+ /* ===================================== */
+    #colorpagetitle {
+      width: 89%;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      margin-top: -5%;
+    }
+    .titlepageimages {
+        width: 100%;
+        padding: 10px 10px;
+        margin-top: -100%;
+        z-index: -1;
+        opacity: 0.3;
+    }
+    .titlepageimages img {
+        height: 100%;
+    }
+    .titlepagedata {
+        width: 100%;
+        padding: 30px 10px;
+      }
+    .para1 {
+          width: 100%;
+          text-align: center;
+          text-transform: uppercase;
+          font-size: 10px;
+      }
+      .titlepagedata h1 {
+          text-align: center;
+          width: 100%;
+          font-size: 1.5rem;
+      }
+      .para2 {
+          text-align: center;
+          color: black;
+          font-size: 10px;
+      }
+      .btnsproperty {
+          width: 80%;
+          align-self: center;
+      }
+      .companylogos {
+          padding: 10px 5px;
+          flex-direction: column;
+          width: 90%;
+      }
+      .clientlogos {
+          width: 95%;
+          justify-content: center;
+          align-items: center;
+          display: flex;
+      }
+    #aboutsection {
+        width: 92%;
+    }
+    .aboutbookandimages {
+        width: 90%;
+    }
+    .imageabout {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .imageabout img{
+        height: 300px;
+        width: 250px;
+    }
+    .aboutdatasinformation {
+        width: 100%;
+        margin-left: 1px;
+        margin-top: 5px;
+    }
+    .aboutdatasinformation h1 {
+        font-size: 2rem;
+        padding-bottom: 5px;
+        margin: 15px 0px;
+    }
+    .aboutdatasinformation p {
+        font-size: 0.9rem;
+    }
+    .aboutdatasinformation h3 {
+        font-size: 1.1rem;
+        margin-top: 1px;
+    }
+    .booksellaboutinformations {
+      flex-direction: column;
+    }
+    .details {
+      width: 85%;
+      
+    }
+    #chaptersection h1 {
+        font-size: 2rem;
+        width: 80%;
+    }
+    .bookchapter {
+      width: 90%;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .bookmenupages nav li a{
+        font-size: 15px;
+    }
+    .bookmenupages {
+      width: 89%;
+      position: relative;
+      height: 50%;
+      /* margin-top: -1%; */
+      /* height: 40vh; */
+    }
+    .bookchapterinformation {
+      width: 90%;
+      margin-right: 1%;
+    }
+    .chapterdata {
+      width: 80%;
+      margin: 20px 10px;
+      padding: 10px 10px;
+    }
+    .chapterdata h1 {
+        font-size: 1.5rem;
+    }
+    .chapterdata p{
+        font-size: 10px;
+    }
+    
+#chaptersection h1 {
+  font-size: 1.5rem;
+}
+    .services {
+      width: 98%;
+    }
+    .servicesbox {
+      flex-direction: column;
+      justify-content: center;
+      width: 80%;
+    }
+    .service {
+      width: 100%;
+      margin: 20px 0px;
+      padding: 0px 20px;
+    }
+    .servicelogo img {
+        width: 60px;
+        height: 60px;
+    }
+    .service h2 {
+        font-size: 1.5rem;
+    }
+    .service p {
+        font-size: 0.8rem;
+    }
+    #reviewsection {
+      width: 97%;
+      padding: 5px 5px;
+    }
+    .reviewimageblock h1{
+      text-align: center;
+      font-size: 1.5rem;
+    }
+  .image {
+      width: 96.5%;
+      margin-top: -90%;
+      height: 50%;
+  }
+  .imageshade {
+    width: 100%;
+    height: 100%;
+  }
+    .slidercommentdatassections {
+        width: 92%;
+        margin-top: -35%;
+        align-self: center;
+    }
+    .commentsliderarea {
+        width: 70%;
+    }
+    .sliderbullets {
+      width: 35%;
+    }
+    .bullets {
+      height: 10px;
+      width: 30px;
+    }
+    .headingandpara h1 {
+        font-size: 1.5rem;
+    }
+    .booksitems {
+      flex-direction: column;
+      width: 90%;
+    }
+    .bookspictures {
+      width: 91%;
+      margin: 15px 0px;
+    }
+    .bookspictures img {
+      height: 250px;
+      width: 200px;
+      position: relative;
+    }
+    .shadow {
+      height: 250px;
+      background-color: black;
+      width: 200px;
+    }
+    #authorsection {
+        width: 95%;
+        flex-direction: column;
+    }
+    .authorimage {
+      width: 95%;
+      margin: 20px 0px;
+    }
+    .authorimage img {
+      width: 200px;
+      height: 250px;
+    }
+    .authordata {
+      width: 85%;
+    }
+    .authordata h1 {
+        font-size: 1.5rem;
+    }
+    .authorname strong {
+        font-size: 10px;
+    }
+    .authorname p {
+        font-size: 10px;
+    }
+    .btnauthors {
+        align-self: flex-start;
+        width: 80%;
+    }
+    #contactus {
+        width: 90%;
+    }
+    .blockscontactdata {
+      flex-direction: column;
+    }
+    .blocksdata {
+      width: 90%;
+      margin: 10px 0px;
+    }
+    .logoscon {
+      background-color: #41C38F;
+      width: 35%;
+      padding: 20px 5px;
+    }
+    .mapanduserinformation {
+      flex-direction: column-reverse;
+    }
+    .map {
+      width: 90%;
+      margin: 20px 0px;
+    }
+    .formdecoration input {
+      width: 100%;
+    }
+    .formdecoration textarea{
+      width: 100%;
+    }
+    .userinformation {
+      width: 90%;
+    }
+    .usermessagesubmitbutton {
+        width: 100%;
+        align-self: center;
+        margin-right: 40px;
+    }
+    /* ================================ */
+    .footerupperside {
+      flex-direction: column;
+    }
+    .aboutbox {
+      width: 90%;
+    }
+    .linkbox {
+      width: 50%;
+    }
+    .servicebox {
+      width: 50%;
+    }
+    .Haveaquestionsbox {
+      width: 80%;
+    }
+}
+/* ==================================== */
